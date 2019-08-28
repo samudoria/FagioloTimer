@@ -1,0 +1,174 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\samue\Documents\AndroidStudioProjects\FagioloTimer\app\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from C:\Users\samue\Documents\AndroidStudioProjects\FagioloTimer\app\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from C:\Users\samue\Documents\AndroidStudioProjects\FagioloTimer\app\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from C:\Users\samue\Documents\AndroidStudioProjects\FagioloTimer\app\src\main\AndroidManifest.xml:2:1-33:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\d6f664bf5bc1400fa98f59c2ea726338\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\9ee020be549b9b0f0f36545a879fd3cf\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\7291b1e35b6e18b76c564b1aaa68505e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\2405723d1d614d14b3c661971373e71e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\b2c60d3f89305c246953c4a3b617e6c4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\e3f465a3b0a63d243f0ad81f75fd6479\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\65d673fd1790e8daf1a37999814622a8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\aeb7ad70c12ba22dba719eb21e786fa1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\6623b811f277eabdd97b9d6ad2f312a0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\45ac172b1e842fa1f3c34dea8134e152\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\05438b7bdfa378a0bfb1217dc11b4708\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\9df6deaf1cb66c0f841c8e97bea671bf\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\47d0f905755c38545856d08829e83eaf\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\544fd35916f1bb92b94caef142c0c505\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\49a604d19fd084758f614175c7a535cb\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\4daeb83e4a9ece1b84fb6dd294dea8c8\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\42233748f7f0ced7460065e61ba92a27\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\32c1a01916d001ef3c616d1909424aa5\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\aa29d033200e121eee097e9b9ebd40b6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\854fce8cff3cdd007a6f9c6cb25e587a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\02216188384c328bdfdfe5fa92f6443e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\7f5b56541fc3500b6b5ab9e2488e6f36\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\c9c4135970a15232ef6996eb65287a30\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\226df8d46fe46d1b0c8326e9d76e2a91\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\dd86782165e231e3d26ce065225782d9\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\4c762a79ebe947bd7f383bf2c610bb93\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\686abafaaebdba55df96ba4447069201\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\samue\Documents\AndroidStudioProjects\FagioloTimer\app\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from C:\Users\samue\Documents\AndroidStudioProjects\FagioloTimer\app\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from C:\Users\samue\Documents\AndroidStudioProjects\FagioloTimer\app\src\main\AndroidManifest.xml:2:1-33:12
+	package
+		ADDED from C:\Users\samue\Documents\AndroidStudioProjects\FagioloTimer\app\src\main\AndroidManifest.xml:3:5-39
+		INJECTED from C:\Users\samue\Documents\AndroidStudioProjects\FagioloTimer\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\samue\Documents\AndroidStudioProjects\FagioloTimer\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\samue\Documents\AndroidStudioProjects\FagioloTimer\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\samue\Documents\AndroidStudioProjects\FagioloTimer\app\src\main\AndroidManifest.xml:2:1-33:12
+		INJECTED from C:\Users\samue\Documents\AndroidStudioProjects\FagioloTimer\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\samue\Documents\AndroidStudioProjects\FagioloTimer\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\samue\Documents\AndroidStudioProjects\FagioloTimer\app\src\main\AndroidManifest.xml:2:1-33:12
+		INJECTED from C:\Users\samue\Documents\AndroidStudioProjects\FagioloTimer\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\samue\Documents\AndroidStudioProjects\FagioloTimer\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\samue\Documents\AndroidStudioProjects\FagioloTimer\app\src\main\AndroidManifest.xml:5:5-31:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\9ee020be549b9b0f0f36545a879fd3cf\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\9ee020be549b9b0f0f36545a879fd3cf\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\4daeb83e4a9ece1b84fb6dd294dea8c8\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\4daeb83e4a9ece1b84fb6dd294dea8c8\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\42233748f7f0ced7460065e61ba92a27\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\42233748f7f0ced7460065e61ba92a27\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\4daeb83e4a9ece1b84fb6dd294dea8c8\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from C:\Users\samue\Documents\AndroidStudioProjects\FagioloTimer\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from C:\Users\samue\Documents\AndroidStudioProjects\FagioloTimer\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from C:\Users\samue\Documents\AndroidStudioProjects\FagioloTimer\app\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from C:\Users\samue\Documents\AndroidStudioProjects\FagioloTimer\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from C:\Users\samue\Documents\AndroidStudioProjects\FagioloTimer\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from C:\Users\samue\Documents\AndroidStudioProjects\FagioloTimer\app\src\main\AndroidManifest.xml:11:9-40
+service#com.example.fagiolotimer.BackgroundService
+ADDED from C:\Users\samue\Documents\AndroidStudioProjects\FagioloTimer\app\src\main\AndroidManifest.xml:12:9-15:47
+	android:enabled
+		ADDED from C:\Users\samue\Documents\AndroidStudioProjects\FagioloTimer\app\src\main\AndroidManifest.xml:14:13-35
+	android:exported
+		ADDED from C:\Users\samue\Documents\AndroidStudioProjects\FagioloTimer\app\src\main\AndroidManifest.xml:15:13-36
+	android:name
+		ADDED from C:\Users\samue\Documents\AndroidStudioProjects\FagioloTimer\app\src\main\AndroidManifest.xml:13:13-46
+activity#com.example.fagiolotimer.Settings
+ADDED from C:\Users\samue\Documents\AndroidStudioProjects\FagioloTimer\app\src\main\AndroidManifest.xml:17:9-21:58
+	android:parentActivityName
+		ADDED from C:\Users\samue\Documents\AndroidStudioProjects\FagioloTimer\app\src\main\AndroidManifest.xml:21:13-55
+	android:label
+		ADDED from C:\Users\samue\Documents\AndroidStudioProjects\FagioloTimer\app\src\main\AndroidManifest.xml:19:13-45
+	android:launchMode
+		ADDED from C:\Users\samue\Documents\AndroidStudioProjects\FagioloTimer\app\src\main\AndroidManifest.xml:20:13-44
+	android:name
+		ADDED from C:\Users\samue\Documents\AndroidStudioProjects\FagioloTimer\app\src\main\AndroidManifest.xml:18:13-37
+activity#com.example.fagiolotimer.MainActivity
+ADDED from C:\Users\samue\Documents\AndroidStudioProjects\FagioloTimer\app\src\main\AndroidManifest.xml:22:9-30:20
+	android:label
+		ADDED from C:\Users\samue\Documents\AndroidStudioProjects\FagioloTimer\app\src\main\AndroidManifest.xml:24:13-45
+	android:name
+		ADDED from C:\Users\samue\Documents\AndroidStudioProjects\FagioloTimer\app\src\main\AndroidManifest.xml:23:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\samue\Documents\AndroidStudioProjects\FagioloTimer\app\src\main\AndroidManifest.xml:25:13-29:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\samue\Documents\AndroidStudioProjects\FagioloTimer\app\src\main\AndroidManifest.xml:26:17-69
+	android:name
+		ADDED from C:\Users\samue\Documents\AndroidStudioProjects\FagioloTimer\app\src\main\AndroidManifest.xml:26:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\samue\Documents\AndroidStudioProjects\FagioloTimer\app\src\main\AndroidManifest.xml:28:17-77
+	android:name
+		ADDED from C:\Users\samue\Documents\AndroidStudioProjects\FagioloTimer\app\src\main\AndroidManifest.xml:28:27-74
+uses-sdk
+INJECTED from C:\Users\samue\Documents\AndroidStudioProjects\FagioloTimer\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\samue\Documents\AndroidStudioProjects\FagioloTimer\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\samue\Documents\AndroidStudioProjects\FagioloTimer\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\d6f664bf5bc1400fa98f59c2ea726338\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\d6f664bf5bc1400fa98f59c2ea726338\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\9ee020be549b9b0f0f36545a879fd3cf\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\9ee020be549b9b0f0f36545a879fd3cf\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\7291b1e35b6e18b76c564b1aaa68505e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\7291b1e35b6e18b76c564b1aaa68505e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\2405723d1d614d14b3c661971373e71e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\2405723d1d614d14b3c661971373e71e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\b2c60d3f89305c246953c4a3b617e6c4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\b2c60d3f89305c246953c4a3b617e6c4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\e3f465a3b0a63d243f0ad81f75fd6479\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\e3f465a3b0a63d243f0ad81f75fd6479\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\65d673fd1790e8daf1a37999814622a8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\65d673fd1790e8daf1a37999814622a8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\aeb7ad70c12ba22dba719eb21e786fa1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\aeb7ad70c12ba22dba719eb21e786fa1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\6623b811f277eabdd97b9d6ad2f312a0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\6623b811f277eabdd97b9d6ad2f312a0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\45ac172b1e842fa1f3c34dea8134e152\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\45ac172b1e842fa1f3c34dea8134e152\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\05438b7bdfa378a0bfb1217dc11b4708\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\05438b7bdfa378a0bfb1217dc11b4708\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\9df6deaf1cb66c0f841c8e97bea671bf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\9df6deaf1cb66c0f841c8e97bea671bf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\47d0f905755c38545856d08829e83eaf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\47d0f905755c38545856d08829e83eaf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\544fd35916f1bb92b94caef142c0c505\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\544fd35916f1bb92b94caef142c0c505\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\49a604d19fd084758f614175c7a535cb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\49a604d19fd084758f614175c7a535cb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\4daeb83e4a9ece1b84fb6dd294dea8c8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\4daeb83e4a9ece1b84fb6dd294dea8c8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\42233748f7f0ced7460065e61ba92a27\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\42233748f7f0ced7460065e61ba92a27\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\32c1a01916d001ef3c616d1909424aa5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\32c1a01916d001ef3c616d1909424aa5\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\aa29d033200e121eee097e9b9ebd40b6\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\aa29d033200e121eee097e9b9ebd40b6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\854fce8cff3cdd007a6f9c6cb25e587a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\854fce8cff3cdd007a6f9c6cb25e587a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\02216188384c328bdfdfe5fa92f6443e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\02216188384c328bdfdfe5fa92f6443e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\7f5b56541fc3500b6b5ab9e2488e6f36\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\7f5b56541fc3500b6b5ab9e2488e6f36\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\c9c4135970a15232ef6996eb65287a30\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\c9c4135970a15232ef6996eb65287a30\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\226df8d46fe46d1b0c8326e9d76e2a91\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\226df8d46fe46d1b0c8326e9d76e2a91\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\dd86782165e231e3d26ce065225782d9\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\dd86782165e231e3d26ce065225782d9\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\4c762a79ebe947bd7f383bf2c610bb93\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\4c762a79ebe947bd7f383bf2c610bb93\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\686abafaaebdba55df96ba4447069201\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\samue\.gradle\caches\transforms-2\files-2.1\686abafaaebdba55df96ba4447069201\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\samue\Documents\AndroidStudioProjects\FagioloTimer\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\samue\Documents\AndroidStudioProjects\FagioloTimer\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\samue\Documents\AndroidStudioProjects\FagioloTimer\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\samue\Documents\AndroidStudioProjects\FagioloTimer\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\samue\Documents\AndroidStudioProjects\FagioloTimer\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\samue\Documents\AndroidStudioProjects\FagioloTimer\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\samue\Documents\AndroidStudioProjects\FagioloTimer\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\samue\Documents\AndroidStudioProjects\FagioloTimer\app\src\main\AndroidManifest.xml
